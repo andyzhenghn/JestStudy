@@ -1,5 +1,3 @@
-# Getting started with `vue-test-utils`
-
 ## Setup
 
 ``` bash
@@ -10,4 +8,4 @@ npm test
 ## Resources
 
 - [vue-test-utils docs](https://vue-test-utils.vuejs.org)
-- [vue-test-utils repo](https://github.com/vuejs/vue-test-utils)
+- [jest docs](https://https://jestjs.io/docs/zh-Hans/getting-started)
