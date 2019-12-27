@@ -1,7 +1,8 @@
 {
-  "presets": [
-    ["env", {
-      "targets:": { "node": "12" }
-    }]
-  ]
+  "presets": [["env", { "moudles": false }]],
+  "env": {
+    "test": {
+      "presets": [["env", { "target": { "node": "current" } }]]
+    }
+  }
 }
