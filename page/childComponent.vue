@@ -1,11 +1,11 @@
 <script>
-  import ChildComponent from './ChildComponent'
+import ChildComponent from "./ChildComponent";
 
-  export default {
-    name: 'ChildComponent',
+export default {
+  name: "ChildComponent",
 
-    template: `
-        <div></div>
-    `,
-  }
+  template: `
+    <div></div>
+  `
+};
 </script>
